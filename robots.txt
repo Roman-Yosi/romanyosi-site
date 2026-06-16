@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://roman-yosi.github.io/romanyosi-site/sitemap.xml
